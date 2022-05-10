@@ -11,4 +11,9 @@
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
+
+
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KhokhlovKirill&theme=default)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=KhokhlovKirill&theme=default)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KhokhlovKirill&theme=default)
