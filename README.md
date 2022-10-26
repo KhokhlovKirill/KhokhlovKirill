@@ -24,6 +24,6 @@
 #### My social networks
 
 - GitHub - [@KhokhlovKirill](https://github.com/KhokhlovKirill)
-- Email - [kirill@khokhlov.tk](mailto:kirill@khokhlov.tk)
+- Email - [khokhlov@Kirill.pw](mailto:khokhlov@Kirill.pw)
 - Discord - [KhokhlovKirill#7636](https://discord.com/)
 - VK - [@KhokhlovKirill](https://vk.com/KhokhlovKirill)
