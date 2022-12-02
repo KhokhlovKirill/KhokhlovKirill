@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm <a href="#">Khokhlov Kirill</a></h1>
-<h3 align="center">Beginner WEB-developer</h3>
+<h3 align="center">Beginner Web-developer</h3>
 
 #### About me
 
