@@ -24,7 +24,8 @@
 
 #### My social networks
 
+- Website: https://khokhlovkirill.ru
 - GitHub - [@KhokhlovKirill](https://github.com/KhokhlovKirill)
-- Email - [khokhlov@kirill.pw](mailto:khokhlov@kirill.pw)
-- Discord - [KhokhlovKirill#7636](https://discord.com/)
+- Email - [i@khokhlovkirill.ru](mailto:i@khokhlovkirill.ru)
+- Discord - @khokhlovkirill
 - VK - [@KhokhlovKirill](https://vk.com/KhokhlovKirill)
